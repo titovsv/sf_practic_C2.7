@@ -1,0 +1,4 @@
+alertmanager/data
+data
+grafana
+.env
